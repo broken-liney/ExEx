@@ -1,2 +1,12 @@
-# ExEx
-This is my personal space to explore, experiment, and learn from every experience.
+# __**Ex**__ceed the __**Ex**__perience
+<sub>btw I use `XP`, `XD` and others as emojis to those who don't get it.</sub>
+**Welcome !!**
+This is my personal space
+and I **explore, experiment, and learn** from every experience and share it with you guy who reading this XP
+
+So!
+### Here you'll find:
+- **Projects** I've built
+- **Lessons** I've learned
+- **Things** I've tried
+- **Tips & tricks** to help you **Exceed your own Experiences**!! XD
