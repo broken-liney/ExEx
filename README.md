@@ -6,8 +6,9 @@ btw I use `XP`, `XD` and others as emojis to those who don't get it.</sub>
 > This is my personal space
 and I **explore, experiment, and learn** from every experience and share it with you guy who reading this XP
 
-So!
-### Here you'll find:
+<br><br>
+
+### So, Here you'll find:
 - **Projects** I've built
 - **Lessons** I've learned
 - **Things** I've tried
