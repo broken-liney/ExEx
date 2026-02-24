@@ -19,7 +19,7 @@ and I **explore, experiment, and learn** from every experience and share it with
 | Experience                     | description |
 |--------------------------------|-------------|
 | [Programming](Topics/prog.md)  | Here I talk about my experience as a [fullstack developer](Termino/fullstack.md) and other programing thingies |
-| [Drawing](Topics/draw.md)      | Here I share the art thingies? like apps i use to draw |
+| [Drawing](Topics/draw.md)      | Here I share the art thingies? like apps I use to draw |
 | [Other Stuff](Topics/other.md) | Here I through anything else Lol |
 
 > also you can join to my [![Discord Server](https://img.shields.io/badge/Discord-BrokenLiney-blue)](https://discord.gg/rgbFvRp4kH)
