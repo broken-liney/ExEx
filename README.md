@@ -16,7 +16,8 @@ and I **explore, experiment, and learn** from every experience and share it with
 - **Tips & tricks** to help you **Exceed your own Experiences**!! XD
 
 ### And Here is A List of them!
-| Experience                    | description |
-|-------------------------------|-------------|
-| [Programming](Topics/prog.md) | Here I talk about my experience as a [fullstack developer](Termino/fullstack.md) and other programing thingies |
-| [Drawing](Topics/draw.md)     | Here I share the art thingies? like apps i use to draw |
+| Experience                     | description |
+|--------------------------------|-------------|
+| [Programming](Topics/prog.md)  | Here I talk about my experience as a [fullstack developer](Termino/fullstack.md) and other programing thingies |
+| [Drawing](Topics/draw.md)      | Here I share the art thingies? like apps i use to draw |
+| [Other Stuff](Topics/other.md) | Here I through anything else Lol |
